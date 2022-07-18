@@ -1,0 +1,12 @@
+form {
+  width: 100%;
+  background: whitesmoke;
+  border-radius: 10px;
+  box-shadow: 2px 2px;
+  padding: 2rem 2.5rem;
+}
+input{
+  width: 500px;
+  padding: 1rem 2rem;
+  border-radius: 7px;
+}
