@@ -130,7 +130,7 @@ img{
 }
 body{
     background-color:hsl(0, 100%, 74%);
-    background-image:url( "/images/background.png");
+    background-image:url( "background.png");
     margin: 1em;
 }
 
@@ -214,5 +214,3 @@ body{
   margin-top:5em;
  }
 }
-
-
