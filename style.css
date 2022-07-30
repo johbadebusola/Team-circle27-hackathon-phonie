@@ -17,6 +17,10 @@ body{
     background-color:hsl(0, 100%, 74%);
     background-image:url( "background.png");
     margin: 1em;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:center;
 }
 
 h2{
