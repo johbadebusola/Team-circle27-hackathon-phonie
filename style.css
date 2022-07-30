@@ -20,7 +20,7 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    min-height:center;
+    min-height:90vh;
 }
 
 h2{
@@ -92,7 +92,7 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    min-height:100vh;
+    min-height:90vh;
 }
  #container{
     display:grid;
