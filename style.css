@@ -32,7 +32,7 @@ h2{
     min-width:90%;
 }
 #grid2{
-    /* position: relative; */
+  
     background-color:white;
     padding: 1em;
     border-radius: 10px;
@@ -59,9 +59,6 @@ h2{
 #container > #grid2 > form >#input-logo > input:hover{
     border: 2px solid var(--Blue);
 }
-/* #container > #grid2 > form > #input-logo > #tele{
-    position: relative;
-} */
 #container > #grid2 > form > button{
     width: 100%;
     padding: 1em;   
