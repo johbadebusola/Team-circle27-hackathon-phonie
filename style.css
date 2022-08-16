@@ -1,5 +1,5 @@
 
-/* SECOND DESIGN BY TOYIN */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 :root{
     --poppins: 'Poppins', sans-serif;
@@ -28,7 +28,6 @@ h2{
     color: var(--Very-Pale-Cyan);
     text-align: center;
     margin: auto;
-
     min-width:90%;
 }
 #grid2{
@@ -45,7 +44,6 @@ h2{
     border: 1px solid var(--Grayish-Blue);
  
 }
-
 #container > #grid2 > form > #input-logo > input{
     width: 100%;
     padding: 1em;
@@ -99,4 +97,7 @@ body{
  #grid1{
   margin-top:5em;
  }
+	#container > #grid2 > form > #input-logo > input{
+		width:90%;
+	}
 }
